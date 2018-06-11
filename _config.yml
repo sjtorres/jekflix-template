@@ -1,24 +1,23 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: Sandro Torres | Desenvolvedor Front-end
+email: sj.torres@live.com
+description: Blog criado para compartilhar dicas e tutoriais de códigos, tanto na área de Front-end como Back-end.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sjtorres.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Torres
+user_description: Apaixonado por tecnologia.
+disqus_username: sjtorres
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+github_username: sjtorres
+facebook_username: SandroJ.Torres
+twitter_username: SandroJT
+instagram_username: sj.torres
 linkedin_username: linkedin_username
-medium_username: medium_username
 
 # Build settings
 markdown: kramdown
@@ -32,11 +31,13 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Início
     url: /
-  - title: About
+  - title: Sobre
     url: /about/
-  - title: Contact
+  - title: Portfólio
+    url: /portfolio/
+  - title: Contato
     url: /contact/
 
 # Exclude my node related stuff
