@@ -1,17 +1,12 @@
 ---
 layout: page
-title: About
-description: Some description.
+title: Sobre Mim
+description: Um pouco sobre Sandro Torres.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="asset/img/perfil-02.png" alt="Sandro Torres">
 
-## About
+## Sobre Mim
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Meu nome é Sandro Torres e nasci em Brasília-DF, onde vivi maior parte da minha vida, sou casado e moro atualmente no Paraná. Formado pela Faculdade de Tecnologia e Ciência do Norte do Paraná - FATECIE, no curso de Sistemas para Internet, dando início a essa incrível jornada na área dos códigos (Lógica de Programação, Algoritmos, HTML5, CSS3, Javascript, PHP, Java, Python, POO ...). No começo foi difícil conciliar trabalho, faculdade e reservar um tempo para esposa e filhos muito amados e queridos, eram noites sem dormir na frente dos livros e computador. Mas minha força de vontade e fé no Altíssimo foi maior e consegui vencer essa etapa da jornada, que convenhamos ainda está longe de acabar.
