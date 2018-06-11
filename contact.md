@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COntato
+title: Contato
 description: Vamos conversar ;).
 permalink: /contact/
 ---
