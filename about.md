@@ -5,7 +5,7 @@ description: Um pouco sobre Sandro Torres.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="asset/img/perfil-02.png" alt="Sandro Torres">
+<img itemprop="image" class="img-rounded" src="assets/img/perfil-02.png" alt="Sandro Torres">
 
 ## Sobre Mim
 
