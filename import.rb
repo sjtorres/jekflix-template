@@ -10,6 +10,7 @@
 
 require "hpricot"
 require "fileutils"
+require "time"
 require "safe_yaml"
 require "html2markdown"
 
